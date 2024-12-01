@@ -53,7 +53,7 @@ L is the lower bound of the range, and R is the upper bound of the range.
 - **Output**: `5`
 - **Explanation**:
 1. The largest digit in L = 3 is '3'.
-2. Prime numbers up to 50: {2, 3, 5, 7, 11, 13, 17, 19, 23}.
+2. Prime numbers up to 25: {2, 3, 5, 7, 11, 13, 17, 19, 23}.
 3. Checking numbers for the presence of the digit '3':
 
 - 3: contains the digit '3', not "happy".
