@@ -71,6 +71,6 @@ Output the final count of "happy" prime numbers.
 ## Time Complexity:
 
 - Sieve of Eratosthenes: $O(nloglogn)$
-- Finding the largest digit in number L: $O(logL)4
+- Finding the largest digit in number L: $O(logL)$
 - Checking for "happiness": $O(RlogR)$
 - Overall time complexity: $O(RlogR)$
