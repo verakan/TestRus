@@ -1,4 +1,4 @@
-﻿# Task Description: Happy Prime Numbers
+﻿# Happy Prime Numbers
 
 We need to create a console application that will use the Sieve of Eratosthenes to find all prime numbers in a given range and count the number of "happy" prime numbers. 
 A happy number in our task is a number that satisfies the following conditions:
